@@ -19,8 +19,8 @@ During training, SCTD also uses direct full-view and partial-view sentiment supe
 ```text
 SCTD/
 ├── README.md                       # Documentation and reproduction commands
-├── main.py                         # SCTD training, evaluation and checkpoints (500 lines)
-├── model.py                        # SCTD model and learning objectives (800 lines)
+├── main.py                         # SCTD training, evaluation and checkpoints
+├── model.py                        # SCTD model and learning objectives
 ├── global_configs.py               # Feature widths and device defaults
 ├── requirements.txt                # Python dependencies
 ├── .gitignore                      # Excludes datasets, BERT weights, outputs
