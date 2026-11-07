@@ -1,0 +1,7 @@
+# Install a CUDA-compatible PyTorch build first when training on GPU.
+# Python 3.10 or 3.11 recommended.
+torch>=2.1,<2.6
+transformers>=4.30,<4.45
+numpy>=1.23,<2.0
+scikit-learn>=1.2,<1.7
+tqdm>=4.64,<5.0
