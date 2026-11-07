@@ -1,6 +1,6 @@
 # Data
 
-Place the **word-aligned** CMU-MOSI and CMU-MOSEI datasets here:
+Place the word-aligned **word-aligned** CMU-MOSI and CMU-MOSEI datasets here:
 
 ```text
 datasets/

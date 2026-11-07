@@ -1,0 +1,16 @@
+# Download separately; do not redistribute data or pretrained weights.
+/datasets/*.pkl
+/bert-base-uncased/
+/checkpoints/
+/results/
+*.pth
+*.pt
+*.pkl
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
